@@ -1,4 +1,5 @@
 {
-  "version": "1.0.3",
-  "enable": ["pressure", "co2"]
+  "version":"1.0.3",
+  "enable":["pressure", "co2"]
 }
+
